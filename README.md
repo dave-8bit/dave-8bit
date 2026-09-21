@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Visual Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1d21&height=200&section=header&text=David&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18" width="100%" />
+  <!-- Fixed Header Banner using reliable SVG placeholder -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F8F8F2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+David+%F0%9F%90%B1%E2%80%8D%F0%9F%90%B2;Full-Stack+%26+AI+Developer;Building+Dev+Tools+%26+Web+Apps" alt="Typing SVG" />
 
   <p>
     <a href="https://x.com/cipher0great"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -42,12 +42,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dave-8bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave-8bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dave-8bit&theme=tokyonight&hide_border=true" width="65%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dave-8bit&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-the-94.vercel.app/api/top-langs/?username=dave-8bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -58,5 +54,3 @@
 - 🎧 **Music** — High-tempo hip-hop on loop during deep work sessions
 - ⚽ **Football** — On the field or running matches on console
 - ⛩️ **Anime** — Watching series during downtime
-
-</div>
