@@ -1,28 +1,62 @@
-# Hi there, I'm David 👋
+<div align="center">
 
-Full-stack developer focused on building AI-powered developer tools, web applications, and open-source software.
+  <!-- Header Visual Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1d21&height=200&section=header&text=David&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18" width="100%" />
 
----
+  <p>
+    <a href="https://x.com/cipher0great"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://t.me/Cipher2Great"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:chinwenmerid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-### 🛠️ Tech Stack & Tools
+  <p>Building AI-powered developer tools and full-stack applications — one commit at a time.</p>
 
-**Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Databases & DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Gritch](https://github.com/dave-8bit/gritch)** | AI-powered developer CLI for repo intelligence & code reviews | `TypeScript` `Node.js` `LangChain` |
+| **[Spotify Analytics](https://github.com/dave-8bit/spotify-analytics)** | Real-time listening history & audio metrics platform | `React` `Node.js` `Express` `REST API` |
+| **[Code Reviewer](https://github.com/dave-8bit/code-reviewer)** | Automated static analysis & bug detection package | `TypeScript` `LangChain` `npm` |
+
+---
+
+### 💻 Tech Stack & Tooling
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dave-8bit&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave-8bit&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dave-8bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave-8bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dave-8bit&theme=tokyonight&hide_border=true" width="65%" />
+</div>
+
+---
+
+### ⚡ Beyond The Code
+
+- 🧠 **LeetCode** — Active problem solver tackling algorithms & system design
+- 🎧 **Music** — High-tempo hip-hop on loop during deep work sessions
+- ⚽ **Football** — On the field or running matches on console
+- ⛩️ **Anime** — Watching series during downtime
+
+</div>
